@@ -1,0 +1,6 @@
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const ADD_QUANTITY = "ADD_QUANTITY";
+export const SHOW_PRODUTS = "SHOW_PRODUTS";
+export const SUB_QUANTITY = "SUB_QUANTITY";
+export const DELETE_CART_PRODUCT = "DELETE_CART_PRODUCT";
